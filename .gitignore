@@ -1,0 +1,8 @@
+/node_modules
+/build
+/dist
+
+#JetBrain IDE 개발환경파일
+.idea
+
+package-lock.json
